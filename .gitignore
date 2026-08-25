@@ -1,0 +1,14 @@
+# Checkpoints y temporales
+.ipynb_checkpoints/
+__pycache__/
+
+# Carpetas de datos pesados y parquets
+PdB_Dumps_Attrbs/
+PdB_Dumps_Attrbs_Parquets/
+*.parquet
+*.csv
+
+# Entornos y espacios de trabajo
+*.code-workspace
+venv/
+.venv/
